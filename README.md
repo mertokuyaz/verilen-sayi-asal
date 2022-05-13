@@ -1,5 +1,5 @@
 # verilen-sayi-asal
-Verilen sayının asal sayı olup olmadığını bulur. Çok yaygın bir iş mülakatı sorusu. Kendi yorumumla birlikte.
+Verilen sayının asal sayı olup olmadığını bulur. Çok yaygın bir iş mülakatı sorusu. (Tecrübelerle sabittir :D )
 
 https://replit.com/@mertokuyaz/Asal-Sayi-Mi-Degil-Mi#main.py kodu tarayıcınızda çalıştırabilirsiniz.
 
