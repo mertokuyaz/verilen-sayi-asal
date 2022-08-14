@@ -15,5 +15,5 @@ Lütfen bir sayı giriniz: 7877
 
 Lütfen bir sayı giriniz: 57
 
-57 asal bir sayı 
+57 asal bir sayı .
 
